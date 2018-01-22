@@ -1,0 +1,37 @@
+<movies>
+    <movie>
+        <title>The Goonies</title>
+        <year>1985</year>
+        <genre>Adventure</genre>
+        <actors>
+            <actor>
+                <name>Sean Astin</name>
+                <birthdate>1971-02-25</birthdate>
+            </actor>
+            <actor>
+                <name>Jeff Cohen</name>
+                <birthdate>1974-06-25</birthdate>
+            </actor>
+            <actor>
+                <name>Corey Feldman</name>
+                <birthdate>1972-07-16</birthdate>
+            </actor>
+        </actors>
+    </movie>
+    <movie>
+        <title>Back to the Future</title>
+        <year>1985</year>
+        <genre>Adventure</genre>
+        <actors>
+            <actor>
+                <name>Michael J. Fox</name>
+                <birthdate>1961-06-09</birthdate>
+            </actor>
+            <actor>
+                <name>Christopher Lloyd</name>
+                <birthdate>1938-10-22</birthdate>
+            </actor>
+        </actors>
+    </movie>
+</movies>
+    
