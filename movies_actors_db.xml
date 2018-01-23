@@ -4,7 +4,7 @@
         xsi:schemaLocation="http:// http://movies_actors_db.xsd">
     <movie>
         <title>The Goonies</title>
-        <year>1985</year>
+        <year>19854</year>
         <genre>Adventure</genre>
         <actors>
             <actor>
