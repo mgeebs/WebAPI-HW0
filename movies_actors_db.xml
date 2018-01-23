@@ -1,4 +1,7 @@
-<movies>
+<?xml version="1.0"?>
+<movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://"
+        xsi:schemaLocation="http:// http://movies_actors_db.xsd">
     <movie>
         <title>The Goonies</title>
         <year>1985</year>
